@@ -1,5 +1,6 @@
 # other static built gdb
 https://github.com/imazes/gdb_static_for_all_arch
+- /gdb-9.1/x86_64-linux-gnu/gdb run error...
 
 # static builds
 https://github.com/jhswartz/static-builds
