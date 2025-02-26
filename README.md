@@ -1,3 +1,6 @@
+# other static built gdb
+https://github.com/imazes/gdb_static_for_all_arch
+
 # static builds
 https://github.com/jhswartz/static-builds
 
