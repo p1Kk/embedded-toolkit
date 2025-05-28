@@ -4,6 +4,9 @@ https://github.com/guyush1/gdb-static
 # static builds
 https://github.com/jhswartz/static-builds
 
+# static binaries
+https://github.com/yunchih/static-binaries
+
 # embedded-toolkit
 Useful executables (statically linked via muslibc or uClibc) for different variants of ARM and MIPS Linux systems (MSB, LSB, different ABIs including the elusive ARMEL-OABI, etc.) meant for doing low-level work on modern or *ancient* embedded devices (yes, I worked with an ARMEL-OABI system in the year 2017)
 
