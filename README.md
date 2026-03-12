@@ -6,6 +6,7 @@ https://github.com/jhswartz/static-builds
 
 # static binaries
 https://github.com/yunchih/static-binaries
+
 https://github.com/andrew-d/static-binaries/tree/master/binaries
 
 # embedded-toolkit
