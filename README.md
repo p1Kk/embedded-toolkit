@@ -4,6 +4,9 @@ https://github.com/guyush1/gdb-static
 # static builds
 https://github.com/jhswartz/static-builds
 
+# static busybox
+https://busybox.net/downloads/binaries/
+
 # static binaries
 https://github.com/yunchih/static-binaries
 
