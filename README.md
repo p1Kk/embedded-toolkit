@@ -14,6 +14,9 @@ https://github.com/andrew-d/static-binaries/tree/master/binaries
 
 https://github.com/whiter6666/tools-static   : strace\tcpdump
 
+## static ecapture
+https://github.com/gojue/ecapture 
+
 # embedded-toolkit
 Useful executables (statically linked via muslibc or uClibc) for different variants of ARM and MIPS Linux systems (MSB, LSB, different ABIs including the elusive ARMEL-OABI, etc.) meant for doing low-level work on modern or *ancient* embedded devices (yes, I worked with an ARMEL-OABI system in the year 2017)
 
